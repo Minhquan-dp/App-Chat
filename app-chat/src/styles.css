@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("./assets/font/fontawesome-free-5.15.3-web/css/all.css");
+@import url("./assets/font/releway/stylesheet.css");
+.tooltip {
+  font-size: 11px !important;
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0, 0.734);
+  border-radius: 6px !important;
+  padding: 8px 10px !important;
+  -webkit-box-shadow: 0px 2px 4px #828282;
+          box-shadow: 0px 2px 4px #828282;
+  line-height: 16px;
+  white-space: pre-line !important;
+}
+
+.tooltip2 {
+  font-size: 11px !important;
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-weight: 500;
+  background-color: #ffffff33;
+  border-radius: 6px !important;
+  padding: 8px 10px !important;
+  line-height: 16px;
+  white-space: pre-line !important;
+}
+
+.span-image-box-chat {
+  image-rendering: -webkit-optimize-contrast;
+  background-size: 16px 16px;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+}
+
+.span-image-box-chat span {
+  color: transparent;
+  caret-color: #050505;
+}
+
+.gui_text_icon_icon {
+  image-rendering: -webkit-optimize-contrast;
+  background-size: 28px 28px;
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  margin: 0px 1px;
+}
+
+.gui_text_icon_icon span {
+  width: 28px;
+  height: 28px;
+  color: transparent;
+  caret-color: #050505;
+}
+/*# sourceMappingURL=styles.css.map */
